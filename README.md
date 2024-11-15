@@ -34,8 +34,8 @@ O projeto é estruturado da seguinte forma:
    git clone https://github.com/seuusuario/nome-do-repositorio.git
 
 2. **Acesse o diretório do projeto:**
-   - cd nome-do-repositorio
-  
+   - ```cd nome-do-repositorio
+   
 3. **Abra o arquivo index.html em um navegador.**
   
 ### Como Jogar
